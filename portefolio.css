@@ -420,6 +420,13 @@ header.scrolled {
     background-color: #27da80;
 }
 
+header.scrolled .small_menu span div {
+    background-color: white;
+}
+
+
+
+
 header.scrolled .logo,
 header.scrolled .menu li a,
 header.scrolled .numero {
